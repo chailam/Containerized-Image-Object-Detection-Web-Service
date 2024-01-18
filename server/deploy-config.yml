@@ -1,0 +1,27 @@
+# YAML config file for Kubernetes
+# kubectl apply -f deploy-config.yml
+apiVersion: apps/v1 # for versions before 1.9.0 use apps/v1beta2
+kind: Deployment
+metadata:
+  name: iweblens-deployment
+spec:
+  selector:
+    matchLabels:
+      app: iweblens
+  replicas: 1 # tells deployment to run 2 pods matching the template
+  template:
+    metadata:
+      labels:
+        app: iweblens
+    spec:
+      containers:
+      - name: iweblensserver
+        image: cloi0001/iweblens:1.0.0
+        #imagePullPolicy: Never # or IfNotPresent
+        resources:
+          limits:
+            cpu: "0.5"
+          requests:
+            cpu: "0.5"
+        ports:
+        - containerPort: 5000

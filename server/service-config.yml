@@ -1,0 +1,18 @@
+# YAML config file for Kubernetes service
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: iweblens-service
+spec:
+  type: NodePort
+  selector:
+    app: iweblens
+  ports:
+  - port: 80 # receive traffic from this port
+    targetPort: 5000 #This is the actual port on which your application is running inside the container.
+    protocol: TCP
+    # By default and for convenience, the Kubernetes control plane will allocate a port from a range (default: 30000-32767)
+    nodePort: 30000
+
+  

@@ -1,0 +1,2673 @@
+Thread : ThreadPoolExecutor-0_9,  input image: inputfolder\000000050004.jpg,  output:{
+    "id": "8bd4b16d-20ca-5c60-809f-e2ab18bcc2bf",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.9408506751060486,
+            "rectangle": {
+                "height": 122,
+                "left": 160,
+                "top": 150,
+                "width": 54
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_1,  input image: inputfolder\000000012807.jpg,  output:{
+    "id": "77945cba-0317-56b5-85a5-96f6db12d617",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.9590024948120117,
+            "rectangle": {
+                "height": 277,
+                "left": 300,
+                "top": 211,
+                "width": 134
+            }
+        },
+        {
+            "label": "elephant",
+            "accuracy": 0.9153211712837219,
+            "rectangle": {
+                "height": 243,
+                "left": -6,
+                "top": 219,
+                "width": 232
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_2,  input image: inputfolder\000000023401.jpg,  output:{
+    "id": "3df8b318-084a-5a53-87ed-3b36b679fd29",
+    "objects": [
+        {
+            "label": "orange",
+            "accuracy": 0.5968307852745056,
+            "rectangle": {
+                "height": 238,
+                "left": 249,
+                "top": 17,
+                "width": 231
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_8,  input image: inputfolder\000000036986.jpg,  output:{
+    "id": "87ab464f-a7c7-563f-84e0-ba9c59e697df",
+    "objects": [
+        {
+            "label": "car",
+            "accuracy": 0.782204270362854,
+            "rectangle": {
+                "height": 16,
+                "left": 233,
+                "top": 396,
+                "width": 57
+            }
+        },
+        {
+            "label": "clock",
+            "accuracy": 0.588281512260437,
+            "rectangle": {
+                "height": 15,
+                "left": 81,
+                "top": 119,
+                "width": 15
+            }
+        },
+        {
+            "label": "car",
+            "accuracy": 0.5786712169647217,
+            "rectangle": {
+                "height": 15,
+                "left": 148,
+                "top": 392,
+                "width": 19
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.5171711444854736,
+            "rectangle": {
+                "height": 19,
+                "left": 378,
+                "top": 397,
+                "width": 9
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.4710119664669037,
+            "rectangle": {
+                "height": 13,
+                "left": 27,
+                "top": 405,
+                "width": 19
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.40598368644714355,
+            "rectangle": {
+                "height": 15,
+                "left": 447,
+                "top": 403,
+                "width": 12
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.3554595708847046,
+            "rectangle": {
+                "height": 13,
+                "left": 593,
+                "top": 405,
+                "width": 19
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.33779409527778625,
+            "rectangle": {
+                "height": 17,
+                "left": 131,
+                "top": 395,
+                "width": 14
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_5,  input image: inputfolder\000000028465.jpg,  output:NO
+Thread : ThreadPoolExecutor-0_6,  input image: inputfolder\000000031026.jpg,  output:{
+    "id": "d9833c33-7653-50ad-9b50-2496f65ecdc7",
+    "objects": [
+        {
+            "label": "bird",
+            "accuracy": 0.6463863253593445,
+            "rectangle": {
+                "height": 35,
+                "left": 376,
+                "top": 311,
+                "width": 27
+            }
+        }
+    ]
+}
+
+Thread : ThreadPoolExecutor-0_4,  input image: inputfolder\000000028124.jpg,  output:{
+    "id": "3214e462-1866-5603-bfd7-9e556889200d",
+    "objects": [
+        {
+            "label": "bus",
+            "accuracy": 0.4165308177471161,
+            "rectangle": {
+                "height": 294,
+                "left": 71,
+                "top": 96,
+                "width": 601
+            }
+        },
+        {
+            "label": "car",
+            "accuracy": 0.3178633451461792,
+            "rectangle": {
+                "height": 17,
+                "left": 47,
+                "top": 258,
+                "width": 13
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_3,  input image: inputfolder\000000026923.jpg,  output:{
+    "id": "99319cb3-9da5-5646-8b3e-ee048c7b9a92",
+    "objects": [
+        {
+            "label": "aeroplane",
+            "accuracy": 0.6670042276382446,
+            "rectangle": {
+                "height": 18,
+                "left": 371,
+                "top": 208,
+                "width": 70
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_10,  input image: inputfolder\000000050042.jpg,  output:{
+    "id": "fa058da1-ea60-595b-b97f-7fe7924b436c",
+    "objects": [
+        {
+            "label": "tennis racket",
+            "accuracy": 0.9792147278785706,
+            "rectangle": {
+                "height": 75,
+                "left": 434,
+                "top": 155,
+                "width": 146
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.9384047985076904,
+            "rectangle": {
+                "height": 228,
+                "left": -5,
+                "top": 16,
+                "width": 133
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.8145579099655151,
+            "rectangle": {
+                "height": 318,
+                "left": 226,
+                "top": 112,
+                "width": 217
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_9,  input image: inputfolder\000000050656.jpg,  output:{
+    "id": "25ec133f-4d89-5cc5-8cfe-3d4c296b845d",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.3852440416812897,
+            "rectangle": {
+                "height": 24,
+                "left": 199,
+                "top": 51,
+                "width": 12
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_1,  input image: inputfolder\000000052042.jpg,  output:{
+    "id": "a4b1144a-3f56-57f2-a63b-3720408dc1be",
+    "objects": [
+        {
+            "label": "suitcase",
+            "accuracy": 0.5395882725715637,
+            "rectangle": {
+                "height": 170,
+                "left": 7,
+                "top": 286,
+                "width": 211
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_2,  input image: inputfolder\000000059377.jpg,  output:NO
+Thread : ThreadPoolExecutor-0_8,  input image: inputfolder\000000060985.jpg,  output:{
+    "id": "90eba0d3-6250-517c-a43d-18855f5f63a8",
+    "objects": [
+        {
+            "label": "car",
+            "accuracy": 0.9335231781005859,
+            "rectangle": {
+                "height": 159,
+                "left": 332,
+                "top": 265,
+                "width": 177
+            }
+        },
+        {
+            "label": "traffic light",
+            "accuracy": 0.6483829617500305,
+            "rectangle": {
+                "height": 44,
+                "left": 561,
+                "top": 66,
+                "width": 23
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.3810085952281952,
+            "rectangle": {
+                "height": 53,
+                "left": 55,
+                "top": 309,
+                "width": 30
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.37914857268333435,
+            "rectangle": {
+                "height": 51,
+                "left": 214,
+                "top": 341,
+                "width": 36
+            }
+        },
+        {
+            "label": "car",
+            "accuracy": 0.367544561624527,
+            "rectangle": {
+                "height": 24,
+                "left": 488,
+                "top": 239,
+                "width": 40
+            }
+        },
+        {
+            "label": "car",
+            "accuracy": 0.3340282142162323,
+            "rectangle": {
+                "height": 115,
+                "left": 2,
+                "top": 309,
+                "width": 242
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.31150728464126587,
+            "rectangle": {
+                "height": 156,
+                "left": 518,
+                "top": 273,
+                "width": 83
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_6,  input image: inputfolder\000000079078.jpg,  output:{
+    "id": "6f99416b-c52e-5750-a9c8-6fc5056cc864",
+    "objects": [
+        {
+            "label": "stop sign",
+            "accuracy": 0.9301005601882935,
+            "rectangle": {
+                "height": 72,
+                "left": 81,
+                "top": 57,
+                "width": 45
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_4,  input image: inputfolder\000000085590.jpg,  output:NO
+Thread : ThreadPoolExecutor-0_10,  input image: inputfolder\000000091554.jpg,  output:{
+    "id": "b0ceadb3-d74d-5440-93ff-349f9a234741",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.8920508027076721,
+            "rectangle": {
+                "height": 193,
+                "left": 234,
+                "top": 91,
+                "width": 129
+            }
+        },
+        {
+            "label": "skateboard",
+            "accuracy": 0.3021490275859833,
+            "rectangle": {
+                "height": 49,
+                "left": 242,
+                "top": 242,
+                "width": 40
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_5,  input image: inputfolder\000000069828.jpg,  output:{
+    "id": "de91d059-428a-58b0-90c4-bf3bc611a982",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.803357720375061,
+            "rectangle": {
+                "height": 51,
+                "left": 32,
+                "top": 337,
+                "width": 22
+            }
+        },
+        {
+            "label": "traffic light",
+            "accuracy": 0.3139389753341675,
+            "rectangle": {
+                "height": 220,
+                "left": 191,
+                "top": 161,
+                "width": 75
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_7,  input image: inputfolder\000000078991.jpg,  output:{
+    "id": "0ec28754-160f-506c-840d-66f1d00a3f9b",
+    "objects": [
+        {
+            "label": "clock",
+            "accuracy": 0.9081601500511169,
+            "rectangle": {
+                "height": 31,
+                "left": 204,
+                "top": 178,
+                "width": 37
+            }
+        },
+        {
+            "label": "car",
+            "accuracy": 0.5225782990455627,
+            "rectangle": {
+                "height": 14,
+                "left": 48,
+                "top": 432,
+                "width": 14
+            }
+        },
+        {
+            "label": "car",
+            "accuracy": 0.44481638073921204,
+            "rectangle": {
+                "height": 12,
+                "left": 113,
+                "top": 430,
+                "width": 12
+            }
+        },
+        {
+            "label": "clock",
+            "accuracy": 0.3988916575908661,
+            "rectangle": {
+                "height": 30,
+                "left": 167,
+                "top": 195,
+                "width": 8
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_0,  input image: inputfolder\000000085078.jpg,  output:NO
+Thread : ThreadPoolExecutor-0_3,  input image: inputfolder\000000095722.jpg,  output:NO
+Thread : ThreadPoolExecutor-0_9,  input image: inputfolder\000000100461.jpg,  output:{
+    "id": "a1db6e79-0ddf-5029-ba0f-caa27ffa2d27",
+    "objects": [
+        {
+            "label": "cup",
+            "accuracy": 0.5004982352256775,
+            "rectangle": {
+                "height": 14,
+                "left": 113,
+                "top": 186,
+                "width": 7
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_1,  input image: inputfolder\000000102258.jpg,  output:{
+    "id": "a53ef495-d02d-5156-98ce-700febf9cf3a",
+    "objects": [
+        {
+            "label": "elephant",
+            "accuracy": 0.8170307874679565,
+            "rectangle": {
+                "height": 311,
+                "left": 145,
+                "top": 64,
+                "width": 376
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_2,  input image: inputfolder\000000111006.jpg,  output:{
+    "id": "72023cb2-2e5c-56fd-8352-51ce7fb73151",
+    "objects": [
+        {
+            "label": "zebra",
+            "accuracy": 0.8114505410194397,
+            "rectangle": {
+                "height": 61,
+                "left": 88,
+                "top": 155,
+                "width": 31
+            }
+        },
+        {
+            "label": "zebra",
+            "accuracy": 0.7039885520935059,
+            "rectangle": {
+                "height": 83,
+                "left": 156,
+                "top": 151,
+                "width": 102
+            }
+        },
+        {
+            "label": "zebra",
+            "accuracy": 0.6844242811203003,
+            "rectangle": {
+                "height": 66,
+                "left": 356,
+                "top": 167,
+                "width": 45
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_8,  input image: inputfolder\000000114031.jpg,  output:{
+    "id": "9fb60eec-b0e7-5ba9-8293-0e207ea8b3ec",
+    "objects": [
+        {
+            "label": "clock",
+            "accuracy": 0.9592766761779785,
+            "rectangle": {
+                "height": 33,
+                "left": 336,
+                "top": 154,
+                "width": 46
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_6,  input image: inputfolder\000000125959.jpg,  output:{
+    "id": "fba3aebf-527b-5a24-a6ff-5eac5036a2b7",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.47968438267707825,
+            "rectangle": {
+                "height": 297,
+                "left": 199,
+                "top": 129,
+                "width": 131
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.4627287685871124,
+            "rectangle": {
+                "height": 60,
+                "left": 521,
+                "top": 191,
+                "width": 26
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_4,  input image: inputfolder\000000126160.jpg,  output:{
+    "id": "1e46c9f2-3c17-588c-9d4b-9d4f7cc0cf82",
+    "objects": [
+        {
+            "label": "cup",
+            "accuracy": 0.8439850807189941,
+            "rectangle": {
+                "height": 90,
+                "left": 259,
+                "top": 19,
+                "width": 109
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_10,  input image: inputfolder\000000139491.jpg,  output:{
+    "id": "daa983dc-5dd5-5a3c-b3dd-2bb40c2fb18b",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.9266707301139832,
+            "rectangle": {
+                "height": 54,
+                "left": 73,
+                "top": 87,
+                "width": 28
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.898529052734375,
+            "rectangle": {
+                "height": 28,
+                "left": 232,
+                "top": 121,
+                "width": 20
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.7462475299835205,
+            "rectangle": {
+                "height": 55,
+                "left": 285,
+                "top": 93,
+                "width": 22
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.5481447577476501,
+            "rectangle": {
+                "height": 53,
+                "left": 21,
+                "top": 87,
+                "width": 22
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.46025583148002625,
+            "rectangle": {
+                "height": 198,
+                "left": 116,
+                "top": 43,
+                "width": 86
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.3005581796169281,
+            "rectangle": {
+                "height": 120,
+                "left": 410,
+                "top": 62,
+                "width": 50
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_5,  input image: inputfolder\000000141385.jpg,  output:{
+    "id": "f5aac093-1010-5076-9f07-7207fa304b0f",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.7105250954627991,
+            "rectangle": {
+                "height": 43,
+                "left": 105,
+                "top": 478,
+                "width": 25
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_3,  input image: inputfolder\000000146461.jpg,  output:{
+    "id": "c41e0ff9-94f7-53f8-b3b2-64fcc9a984d3",
+    "objects": [
+        {
+            "label": "laptop",
+            "accuracy": 0.3508261442184448,
+            "rectangle": {
+                "height": 450,
+                "left": 295,
+                "top": -61,
+                "width": 353
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_7,  input image: inputfolder\000000141459.jpg,  output:{
+    "id": "dcf2a9f1-e4b8-59cb-a2ed-ee488aa7b40b",
+    "objects": [
+        {
+            "label": "car",
+            "accuracy": 0.47638431191444397,
+            "rectangle": {
+                "height": 19,
+                "left": 197,
+                "top": 148,
+                "width": 30
+            }
+        },
+        {
+            "label": "car",
+            "accuracy": 0.3466874063014984,
+            "rectangle": {
+                "height": 77,
+                "left": 237,
+                "top": 285,
+                "width": 91
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_0,  input image: inputfolder\000000146036.jpg,  output:{
+    "id": "c2b52b0b-8a91-5b93-b913-fd8c103894f6",
+    "objects": [
+        {
+            "label": "cell phone",
+            "accuracy": 0.8050422072410583,
+            "rectangle": {
+                "height": 253,
+                "left": 219,
+                "top": 57,
+                "width": 214
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_9,  input image: inputfolder\000000146644.jpg,  output:{
+    "id": "bbeecdf0-d6bc-515d-8a3d-fbf85ce0567a",
+    "objects": [
+        {
+            "label": "motorbike",
+            "accuracy": 0.6797709465026855,
+            "rectangle": {
+                "height": 105,
+                "left": 145,
+                "top": 29,
+                "width": 91
+            }
+        },
+        {
+            "label": "motorbike",
+            "accuracy": 0.49952003359794617,
+            "rectangle": {
+                "height": 29,
+                "left": 23,
+                "top": 62,
+                "width": 31
+            }
+        },
+        {
+            "label": "motorbike",
+            "accuracy": 0.36609745025634766,
+            "rectangle": {
+                "height": 14,
+                "left": 79,
+                "top": 32,
+                "width": 15
+            }
+        },
+        {
+            "label": "motorbike",
+            "accuracy": 0.3433956205844879,
+            "rectangle": {
+                "height": 15,
+                "left": 100,
+                "top": 31,
+                "width": 12
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_1,  input image: inputfolder\000000152671.jpg,  output:{
+    "id": "41446e40-d06d-50e0-a627-83fa8b935649",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.8968021273612976,
+            "rectangle": {
+                "height": 261,
+                "left": 331,
+                "top": 209,
+                "width": 162
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_2,  input image: inputfolder\000000152918.jpg,  output:{
+    "id": "7e745344-a8b7-5d0e-8580-953148c3de25",
+    "objects": [
+        {
+            "label": "chair",
+            "accuracy": 0.6594188213348389,
+            "rectangle": {
+                "height": 36,
+                "left": 407,
+                "top": 208,
+                "width": 36
+            }
+        },
+        {
+            "label": "bottle",
+            "accuracy": 0.6385319232940674,
+            "rectangle": {
+                "height": 105,
+                "left": 459,
+                "top": 382,
+                "width": 93
+            }
+        },
+        {
+            "label": "chair",
+            "accuracy": 0.611656904220581,
+            "rectangle": {
+                "height": 35,
+                "left": 268,
+                "top": 212,
+                "width": 33
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.5128130912780762,
+            "rectangle": {
+                "height": 59,
+                "left": 297,
+                "top": 128,
+                "width": 32
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.3757380545139313,
+            "rectangle": {
+                "height": 38,
+                "left": 71,
+                "top": 98,
+                "width": 38
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.357733815908432,
+            "rectangle": {
+                "height": 19,
+                "left": 405,
+                "top": 144,
+                "width": 10
+            }
+        },
+        {
+            "label": "chair",
+            "accuracy": 0.30786651372909546,
+            "rectangle": {
+                "height": 31,
+                "left": 443,
+                "top": 211,
+                "width": 29
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_8,  input image: inputfolder\000000155660.jpg,  output:NO
+Thread : ThreadPoolExecutor-0_6,  input image: inputfolder\000000156313.jpg,  output:{
+    "id": "b187191b-c20e-56a4-b337-a72542c05bf3",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.37324056029319763,
+            "rectangle": {
+                "height": 31,
+                "left": 541,
+                "top": 123,
+                "width": 20
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.32306724786758423,
+            "rectangle": {
+                "height": 18,
+                "left": 57,
+                "top": 132,
+                "width": 14
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_4,  input image: inputfolder\000000159079.jpg,  output:NO
+Thread : ThreadPoolExecutor-0_10,  input image: inputfolder\000000159604.jpg,  output:{
+    "id": "1a100bb4-4d72-5aa5-bf5b-c56365331d5a",
+    "objects": [
+        {
+            "label": "horse",
+            "accuracy": 0.9443202018737793,
+            "rectangle": {
+                "height": 98,
+                "left": 289,
+                "top": 292,
+                "width": 96
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_5,  input image: inputfolder\000000161399.jpg,  output:{
+    "id": "e4d797f4-a131-5602-8645-d40cd327757f",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.5521723031997681,
+            "rectangle": {
+                "height": 74,
+                "left": 116,
+                "top": 10,
+                "width": 45
+            }
+        },
+        {
+            "label": "donut",
+            "accuracy": 0.38948655128479004,
+            "rectangle": {
+                "height": 24,
+                "left": 231,
+                "top": 344,
+                "width": 52
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_3,  input image: inputfolder\000000162540.jpg,  output:{
+    "id": "52b2a696-ce9c-5e19-944b-fcfedde0d12f",
+    "objects": [
+        {
+            "label": "cup",
+            "accuracy": 0.6691051125526428,
+            "rectangle": {
+                "height": 33,
+                "left": 151,
+                "top": 340,
+                "width": 24
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.5345487594604492,
+            "rectangle": {
+                "height": 254,
+                "left": 389,
+                "top": 33,
+                "width": 168
+            }
+        },
+        {
+            "label": "cup",
+            "accuracy": 0.4986380338668823,
+            "rectangle": {
+                "height": 29,
+                "left": 363,
+                "top": 267,
+                "width": 25
+            }
+        },
+        {
+            "label": "cup",
+            "accuracy": 0.3938318192958832,
+            "rectangle": {
+                "height": 30,
+                "left": 160,
+                "top": 257,
+                "width": 32
+            }
+        },
+        {
+            "label": "book",
+            "accuracy": 0.3878989815711975,
+            "rectangle": {
+                "height": 30,
+                "left": 57,
+                "top": 11,
+                "width": 7
+            }
+        },
+        {
+            "label": "book",
+            "accuracy": 0.3473327159881592,
+            "rectangle": {
+                "height": 29,
+                "left": 82,
+                "top": 13,
+                "width": 8
+            }
+        },
+        {
+            "label": "book",
+            "accuracy": 0.337614506483078,
+            "rectangle": {
+                "height": 21,
+                "left": 33,
+                "top": 90,
+                "width": 10
+            }
+        },
+        {
+            "label": "book",
+            "accuracy": 0.32399439811706543,
+            "rectangle": {
+                "height": 28,
+                "left": 33,
+                "top": 10,
+                "width": 8
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_7,  input image: inputfolder\000000166084.jpg,  output:{
+    "id": "74b42ea0-227d-58c9-85c3-feadbccce145",
+    "objects": [
+        {
+            "label": "bus",
+            "accuracy": 0.8278607130050659,
+            "rectangle": {
+                "height": 230,
+                "left": 98,
+                "top": 155,
+                "width": 403
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.41555213928222656,
+            "rectangle": {
+                "height": 13,
+                "left": 376,
+                "top": 192,
+                "width": 14
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_0,  input image: inputfolder\000000166089.jpg,  output:{
+    "id": "15d0b9b1-7940-5665-b40e-a08d3b6ca5d6",
+    "objects": [
+        {
+            "label": "aeroplane",
+            "accuracy": 0.9647229909896851,
+            "rectangle": {
+                "height": 78,
+                "left": 70,
+                "top": 164,
+                "width": 235
+            }
+        },
+        {
+            "label": "truck",
+            "accuracy": 0.5101600289344788,
+            "rectangle": {
+                "height": 52,
+                "left": 139,
+                "top": 401,
+                "width": 141
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_9,  input image: inputfolder\000000167924.jpg,  output:{
+    "id": "aa6c3dfe-326c-5717-95d8-9ceb18aafb49",
+    "objects": [
+        {
+            "label": "cell phone",
+            "accuracy": 0.9420363306999207,
+            "rectangle": {
+                "height": 157,
+                "left": 373,
+                "top": 22,
+                "width": 96
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_1,  input image: inputfolder\000000172745.jpg,  output:{
+    "id": "bc28dca4-997a-58cd-997e-b64e9ed7897c",
+    "objects": [
+        {
+            "label": "fire hydrant",
+            "accuracy": 0.812627911567688,
+            "rectangle": {
+                "height": 115,
+                "left": 205,
+                "top": 447,
+                "width": 40
+            }
+        },
+        {
+            "label": "bench",
+            "accuracy": 0.4234195053577423,
+            "rectangle": {
+                "height": 163,
+                "left": -2,
+                "top": 286,
+                "width": 86
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_2,  input image: inputfolder\000000174269.jpg,  output:{
+    "id": "f8e9890c-bc9c-52ff-be9c-68fcf5eacc5c",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.9223896265029907,
+            "rectangle": {
+                "height": 315,
+                "left": 88,
+                "top": 52,
+                "width": 187
+            }
+        },
+        {
+            "label": "snowboard",
+            "accuracy": 0.5304028987884521,
+            "rectangle": {
+                "height": 39,
+                "left": 55,
+                "top": 320,
+                "width": 141
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_8,  input image: inputfolder\000000175063.jpg,  output:{
+    "id": "341ce26c-f29f-56b0-a305-d81d41584c3b",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.35422730445861816,
+            "rectangle": {
+                "height": 303,
+                "left": 252,
+                "top": 91,
+                "width": 119
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_6,  input image: inputfolder\000000178362.jpg,  output:NO
+Thread : ThreadPoolExecutor-0_4,  input image: inputfolder\000000178432.jpg,  output:NO
+Thread : ThreadPoolExecutor-0_10,  input image: inputfolder\000000180155.jpg,  output:{
+    "id": "e1613269-c672-51a8-926c-69bf9725dbfa",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.5880098342895508,
+            "rectangle": {
+                "height": 433,
+                "left": 373,
+                "top": 60,
+                "width": 173
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_5,  input image: inputfolder\000000187021.jpg,  output:NO
+Thread : ThreadPoolExecutor-0_3,  input image: inputfolder\000000193510.jpg,  output:NO
+Thread : ThreadPoolExecutor-0_7,  input image: inputfolder\000000198201.jpg,  output:{
+    "id": "b2882f9e-7954-56be-aa51-0a10fd6a68eb",
+    "objects": [
+        {
+            "label": "car",
+            "accuracy": 0.8401134014129639,
+            "rectangle": {
+                "height": 14,
+                "left": 472,
+                "top": 374,
+                "width": 18
+            }
+        },
+        {
+            "label": "car",
+            "accuracy": 0.4227766692638397,
+            "rectangle": {
+                "height": 15,
+                "left": 492,
+                "top": 370,
+                "width": 18
+            }
+        },
+        {
+            "label": "car",
+            "accuracy": 0.4175077974796295,
+            "rectangle": {
+                "height": 18,
+                "left": 378,
+                "top": 363,
+                "width": 13
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_0,  input image: inputfolder\000000201058.jpg,  output:NO
+Thread : ThreadPoolExecutor-0_9,  input image: inputfolder\000000202317.jpg,  output:NO
+Thread : ThreadPoolExecutor-0_1,  input image: inputfolder\000000207226.jpg,  output:{
+    "id": "e4dfc1cb-c8b9-5c39-bf22-b74d0c196002",
+    "objects": [
+        {
+            "label": "mouse",
+            "accuracy": 0.8409801721572876,
+            "rectangle": {
+                "height": 81,
+                "left": 207,
+                "top": 229,
+                "width": 111
+            }
+        },
+        {
+            "label": "laptop",
+            "accuracy": 0.5913437604904175,
+            "rectangle": {
+                "height": 285,
+                "left": -17,
+                "top": 9,
+                "width": 329
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_2,  input image: inputfolder\000000211454.jpg,  output:NO
+Thread : ThreadPoolExecutor-0_8,  input image: inputfolder\000000212729.jpg,  output:{
+    "id": "4c819c40-2d15-5b2d-9726-32cb45864ea7",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.9206576347351074,
+            "rectangle": {
+                "height": 165,
+                "left": 121,
+                "top": 258,
+                "width": 78
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.8230257034301758,
+            "rectangle": {
+                "height": 228,
+                "left": 440,
+                "top": 247,
+                "width": 66
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.4992654621601105,
+            "rectangle": {
+                "height": 109,
+                "left": 392,
+                "top": 286,
+                "width": 33
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.3685692846775055,
+            "rectangle": {
+                "height": 90,
+                "left": 322,
+                "top": 278,
+                "width": 31
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_6,  input image: inputfolder\000000225384.jpg,  output:{
+    "id": "e155ffc2-056f-538b-a4f8-7fcfc3d3714a",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.9532006978988647,
+            "rectangle": {
+                "height": 352,
+                "left": 0,
+                "top": 198,
+                "width": 106
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.6524301767349243,
+            "rectangle": {
+                "height": 200,
+                "left": 289,
+                "top": 168,
+                "width": 57
+            }
+        },
+        {
+            "label": "umbrella",
+            "accuracy": 0.5901939868927002,
+            "rectangle": {
+                "height": 192,
+                "left": 58,
+                "top": 122,
+                "width": 249
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_4,  input image: inputfolder\000000233616.jpg,  output:{
+    "id": "f1db92a3-bd6a-509c-b940-7d31de882f83",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.9734308123588562,
+            "rectangle": {
+                "height": 172,
+                "left": 17,
+                "top": 377,
+                "width": 64
+            }
+        },
+        {
+            "label": "traffic light",
+            "accuracy": 0.9639922380447388,
+            "rectangle": {
+                "height": 177,
+                "left": 226,
+                "top": 146,
+                "width": 37
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.8112154603004456,
+            "rectangle": {
+                "height": 258,
+                "left": 415,
+                "top": 392,
+                "width": 65
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.7821194529533386,
+            "rectangle": {
+                "height": 230,
+                "left": 60,
+                "top": 414,
+                "width": 203
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_10,  input image: inputfolder\000000237311.jpg,  output:{
+    "id": "381f996e-6017-5d72-8883-5d871850ab12",
+    "objects": [
+        {
+            "label": "pottedplant",
+            "accuracy": 0.4489339590072632,
+            "rectangle": {
+                "height": 338,
+                "left": 92,
+                "top": 301,
+                "width": 154
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_5,  input image: inputfolder\000000248977.jpg,  output:{
+    "id": "91a996be-67ab-579b-bf2c-e012c8b3f128",
+    "objects": [
+        {
+            "label": "sports ball",
+            "accuracy": 0.5288953185081482,
+            "rectangle": {
+                "height": 17,
+                "left": 327,
+                "top": 66,
+                "width": 15
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_3,  input image: inputfolder\000000250573.jpg,  output:{
+    "id": "467da441-64fa-5396-9927-ab57bba0834c",
+    "objects": [
+        {
+            "label": "sink",
+            "accuracy": 0.5775350332260132,
+            "rectangle": {
+                "height": 204,
+                "left": 125,
+                "top": 272,
+                "width": 324
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_7,  input image: inputfolder\000000251986.jpg,  output:NO
+Thread : ThreadPoolExecutor-0_0,  input image: inputfolder\000000259564.jpg,  output:NO
+Thread : ThreadPoolExecutor-0_9,  input image: inputfolder\000000259921.jpg,  output:{
+    "id": "43bd003c-91ed-5a1a-b2bd-63e29e5b6851",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.8396459221839905,
+            "rectangle": {
+                "height": 244,
+                "left": 259,
+                "top": 60,
+                "width": 122
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.7573831081390381,
+            "rectangle": {
+                "height": 329,
+                "left": 492,
+                "top": 18,
+                "width": 113
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.6871894001960754,
+            "rectangle": {
+                "height": 32,
+                "left": 54,
+                "top": 152,
+                "width": 17
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.5363103747367859,
+            "rectangle": {
+                "height": 33,
+                "left": 94,
+                "top": 146,
+                "width": 20
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.5293366312980652,
+            "rectangle": {
+                "height": 61,
+                "left": 198,
+                "top": 140,
+                "width": 29
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_1,  input image: inputfolder\000000261033.jpg,  output:NO
+Thread : ThreadPoolExecutor-0_2,  input image: inputfolder\000000263773.jpg,  output:{
+    "id": "e95e2bf8-b855-5ede-8b19-119ec48c4ddc",
+    "objects": [
+        {
+            "label": "cup",
+            "accuracy": 0.7003646492958069,
+            "rectangle": {
+                "height": 76,
+                "left": 313,
+                "top": 119,
+                "width": 52
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_8,  input image: inputfolder\000000269995.jpg,  output:NO
+Thread : ThreadPoolExecutor-0_6,  input image: inputfolder\000000275236.jpg,  output:{
+    "id": "88d5fe53-bc0b-580f-a543-3a2c1309318c",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.6120104789733887,
+            "rectangle": {
+                "height": 203,
+                "left": 188,
+                "top": 167,
+                "width": 133
+            }
+        },
+        {
+            "label": "skis",
+            "accuracy": 0.3823140561580658,
+            "rectangle": {
+                "height": 123,
+                "left": 321,
+                "top": 161,
+                "width": 22
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_4,  input image: inputfolder\000000277398.jpg,  output:{
+    "id": "67fdc157-dfce-5e05-b322-9c2527dc74e2",
+    "objects": [
+        {
+            "label": "bus",
+            "accuracy": 0.6646435260772705,
+            "rectangle": {
+                "height": 166,
+                "left": 433,
+                "top": 255,
+                "width": 206
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_10,  input image: inputfolder\000000289875.jpg,  output:{
+    "id": "7e477b0e-60e2-5a68-a3eb-f321956042d2",
+    "objects": [
+        {
+            "label": "zebra",
+            "accuracy": 0.8463412523269653,
+            "rectangle": {
+                "height": 145,
+                "left": 186,
+                "top": 153,
+                "width": 178
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_5,  input image: inputfolder\000000302358.jpg,  output:NO
+Thread : ThreadPoolExecutor-0_3,  input image: inputfolder\000000306064.jpg,  output:NO
+Thread : ThreadPoolExecutor-0_7,  input image: inputfolder\000000319069.jpg,  output:NO
+Thread : ThreadPoolExecutor-0_0,  input image: inputfolder\000000334339.jpg,  output:{
+    "id": "7bfb9147-7f44-5306-9933-f220644e16cd",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.7739065289497375,
+            "rectangle": {
+                "height": 150,
+                "left": 310,
+                "top": 157,
+                "width": 92
+            }
+        },
+        {
+            "label": "surfboard",
+            "accuracy": 0.3548906445503235,
+            "rectangle": {
+                "height": 32,
+                "left": 263,
+                "top": 288,
+                "width": 78
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_9,  input image: inputfolder\000000340604.jpg,  output:{
+    "id": "8da5756c-3227-5cc3-ab8e-86b8a2b570dd",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.33583542704582214,
+            "rectangle": {
+                "height": 617,
+                "left": 74,
+                "top": 15,
+                "width": 257
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_1,  input image: inputfolder\000000342419.jpg,  output:{
+    "id": "e9e1fca0-019c-56a1-b4e9-b3e1c86340aa",
+    "objects": [
+        {
+            "label": "oven",
+            "accuracy": 0.3797411322593689,
+            "rectangle": {
+                "height": 411,
+                "left": 145,
+                "top": 70,
+                "width": 326
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_2,  input image: inputfolder\000000344475.jpg,  output:NO
+Thread : ThreadPoolExecutor-0_8,  input image: inputfolder\000000355340.jpg,  output:{
+    "id": "2be2d718-9896-5d3b-a610-540be9aea1d5",
+    "objects": [
+        {
+            "label": "clock",
+            "accuracy": 0.8776277899742126,
+            "rectangle": {
+                "height": 113,
+                "left": 267,
+                "top": 396,
+                "width": 108
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.43106359243392944,
+            "rectangle": {
+                "height": 38,
+                "left": 312,
+                "top": 212,
+                "width": 26
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_6,  input image: inputfolder\000000358375.jpg,  output:{
+    "id": "01c0c448-c6e6-553f-a685-e410aee30855",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.36438310146331787,
+            "rectangle": {
+                "height": 226,
+                "left": 70,
+                "top": 135,
+                "width": 415
+            }
+        },
+        {
+            "label": "bottle",
+            "accuracy": 0.35436686873435974,
+            "rectangle": {
+                "height": 26,
+                "left": 225,
+                "top": 137,
+                "width": 17
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_4,  input image: inputfolder\000000359817.jpg,  output:{
+    "id": "670d79b0-dd26-5e82-8d50-aa43d2b1ea2a",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.40095198154449463,
+            "rectangle": {
+                "height": 72,
+                "left": 331,
+                "top": 347,
+                "width": 35
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_10,  input image: inputfolder\000000360621.jpg,  output:{
+    "id": "cddb906d-a561-59ea-836e-18fe1fec4ee5",
+    "objects": [
+        {
+            "label": "fork",
+            "accuracy": 0.4436984658241272,
+            "rectangle": {
+                "height": 322,
+                "left": 1,
+                "top": 9,
+                "width": 119
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_5,  input image: inputfolder\000000363409.jpg,  output:{
+    "id": "8bc6b307-9a1c-558c-aba4-153ab9a69bc6",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.8253689408302307,
+            "rectangle": {
+                "height": 89,
+                "left": 319,
+                "top": 180,
+                "width": 32
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.8040333986282349,
+            "rectangle": {
+                "height": 54,
+                "left": 406,
+                "top": 195,
+                "width": 33
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.7117795348167419,
+            "rectangle": {
+                "height": 125,
+                "left": 81,
+                "top": 147,
+                "width": 76
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.4291725754737854,
+            "rectangle": {
+                "height": 130,
+                "left": 584,
+                "top": 158,
+                "width": 32
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_3,  input image: inputfolder\000000367567.jpg,  output:{
+    "id": "d2cdcdec-27bc-5cd5-a2a4-09817bd4fcd2",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.699400782585144,
+            "rectangle": {
+                "height": 67,
+                "left": 158,
+                "top": 193,
+                "width": 59
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.42400020360946655,
+            "rectangle": {
+                "height": 90,
+                "left": 275,
+                "top": 191,
+                "width": 108
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_7,  input image: inputfolder\000000367777.jpg,  output:{
+    "id": "c9f081b1-ffac-5cf5-9f6f-0600cc919c0f",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.8039258718490601,
+            "rectangle": {
+                "height": 51,
+                "left": 394,
+                "top": 198,
+                "width": 28
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.5877881050109863,
+            "rectangle": {
+                "height": 27,
+                "left": 276,
+                "top": 173,
+                "width": 29
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.4527116119861603,
+            "rectangle": {
+                "height": 63,
+                "left": 536,
+                "top": 140,
+                "width": 33
+            }
+        },
+        {
+            "label": "dog",
+            "accuracy": 0.4094522297382355,
+            "rectangle": {
+                "height": 8,
+                "left": 478,
+                "top": 215,
+                "width": 17
+            }
+        },
+        {
+            "label": "kite",
+            "accuracy": 0.3792390525341034,
+            "rectangle": {
+                "height": 18,
+                "left": 107,
+                "top": 27,
+                "width": 51
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.31046175956726074,
+            "rectangle": {
+                "height": 18,
+                "left": 55,
+                "top": 146,
+                "width": 10
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_0,  input image: inputfolder\000000369182.jpg,  output:NO
+Thread : ThreadPoolExecutor-0_9,  input image: inputfolder\000000373263.jpg,  output:{
+    "id": "c8321770-c69b-56b6-91ad-57f880e2ad21",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.9464458227157593,
+            "rectangle": {
+                "height": 254,
+                "left": 24,
+                "top": 185,
+                "width": 99
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.6447897553443909,
+            "rectangle": {
+                "height": 125,
+                "left": 161,
+                "top": 239,
+                "width": 43
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_1,  input image: inputfolder\000000377039.jpg,  output:NO
+Thread : ThreadPoolExecutor-0_2,  input image: inputfolder\000000382436.jpg,  output:{
+    "id": "36378ce6-4726-51b4-8c65-893b83638a4e",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.6087508201599121,
+            "rectangle": {
+                "height": 87,
+                "left": 387,
+                "top": 183,
+                "width": 38
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_8,  input image: inputfolder\000000388155.jpg,  output:NO
+Thread : ThreadPoolExecutor-0_6,  input image: inputfolder\000000391997.jpg,  output:{
+    "id": "0220fd58-4d51-574f-a168-9d78ea2a8ebe",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.8997920155525208,
+            "rectangle": {
+                "height": 258,
+                "left": 15,
+                "top": -6,
+                "width": 207
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.7463850378990173,
+            "rectangle": {
+                "height": 247,
+                "left": 375,
+                "top": 25,
+                "width": 148
+            }
+        },
+        {
+            "label": "skateboard",
+            "accuracy": 0.3608317971229553,
+            "rectangle": {
+                "height": 58,
+                "left": 82,
+                "top": 194,
+                "width": 63
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_4,  input image: inputfolder\000000393149.jpg,  output:NO
+Thread : ThreadPoolExecutor-0_10,  input image: inputfolder\000000400725.jpg,  output:{
+    "id": "fe4d0c19-1e75-5fb5-90ac-d6cd71b86c4b",
+    "objects": [
+        {
+            "label": "cup",
+            "accuracy": 0.8601985573768616,
+            "rectangle": {
+                "height": 182,
+                "left": 39,
+                "top": 62,
+                "width": 168
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_5,  input image: inputfolder\000000414944.jpg,  output:NO
+Thread : ThreadPoolExecutor-0_3,  input image: inputfolder\000000426648.jpg,  output:{
+    "id": "dc70700a-89be-5e50-8a3b-e39de0632602",
+    "objects": [
+        {
+            "label": "sink",
+            "accuracy": 0.5899069309234619,
+            "rectangle": {
+                "height": 67,
+                "left": 491,
+                "top": 343,
+                "width": 149
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.381441205739975,
+            "rectangle": {
+                "height": 306,
+                "left": 194,
+                "top": 130,
+                "width": 152
+            }
+        },
+        {
+            "label": "bottle",
+            "accuracy": 0.36876174807548523,
+            "rectangle": {
+                "height": 46,
+                "left": 305,
+                "top": 355,
+                "width": 20
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_7,  input image: inputfolder\000000438062.jpg,  output:NO
+Thread : ThreadPoolExecutor-0_0,  input image: inputfolder\000000441217.jpg,  output:NO
+Thread : ThreadPoolExecutor-0_9,  input image: inputfolder\000000450437.jpg,  output:{
+    "id": "524bf84b-c99d-59f8-8f6e-e213741f414b",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.3312626779079437,
+            "rectangle": {
+                "height": 481,
+                "left": 2,
+                "top": 58,
+                "width": 253
+            }
+        },
+        {
+            "label": "tie",
+            "accuracy": 0.3080759346485138,
+            "rectangle": {
+                "height": 50,
+                "left": 118,
+                "top": 201,
+                "width": 29
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_1,  input image: inputfolder\000000452472.jpg,  output:{
+    "id": "f2684438-9efd-57a3-bb8f-eb6d743ef725",
+    "objects": [
+        {
+            "label": "bowl",
+            "accuracy": 0.6261633038520813,
+            "rectangle": {
+                "height": 108,
+                "left": 41,
+                "top": 82,
+                "width": 152
+            }
+        },
+        {
+            "label": "bowl",
+            "accuracy": 0.6208119988441467,
+            "rectangle": {
+                "height": 192,
+                "left": 207,
+                "top": 150,
+                "width": 249
+            }
+        },
+        {
+            "label": "cup",
+            "accuracy": 0.37581875920295715,
+            "rectangle": {
+                "height": 92,
+                "left": 203,
+                "top": 14,
+                "width": 53
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_2,  input image: inputfolder\000000464082.jpg,  output:{
+    "id": "8e51a45e-98e7-5300-bcdc-e52d736c9181",
+    "objects": [
+        {
+            "label": "tvmonitor",
+            "accuracy": 0.5983214378356934,
+            "rectangle": {
+                "height": 94,
+                "left": 160,
+                "top": 226,
+                "width": 118
+            }
+        },
+        {
+            "label": "laptop",
+            "accuracy": 0.4258589744567871,
+            "rectangle": {
+                "height": 23,
+                "left": 284,
+                "top": 291,
+                "width": 47
+            }
+        },
+        {
+            "label": "chair",
+            "accuracy": 0.35349100828170776,
+            "rectangle": {
+                "height": 254,
+                "left": 267,
+                "top": 338,
+                "width": 161
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_8,  input image: inputfolder\000000466315.jpg,  output:{
+    "id": "d2746fe6-b871-5bc1-bb3f-1d4d4c2ecff5",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.8996846675872803,
+            "rectangle": {
+                "height": 442,
+                "left": 344,
+                "top": 190,
+                "width": 172
+            }
+        },
+        {
+            "label": "sports ball",
+            "accuracy": 0.5304609537124634,
+            "rectangle": {
+                "height": 85,
+                "left": 215,
+                "top": 535,
+                "width": 39
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_6,  input image: inputfolder\000000473528.jpg,  output:{
+    "id": "ebaedf9a-7456-5b2f-a499-301cdc13a1b6",
+    "objects": [
+        {
+            "label": "frisbee",
+            "accuracy": 0.9809157848358154,
+            "rectangle": {
+                "height": 10,
+                "left": 154,
+                "top": 104,
+                "width": 41
+            }
+        },
+        {
+            "label": "dog",
+            "accuracy": 0.6693843007087708,
+            "rectangle": {
+                "height": 189,
+                "left": 341,
+                "top": 107,
+                "width": 272
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.5329528450965881,
+            "rectangle": {
+                "height": 20,
+                "left": 379,
+                "top": 51,
+                "width": 8
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.4860406816005707,
+            "rectangle": {
+                "height": 23,
+                "left": 405,
+                "top": 48,
+                "width": 8
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.456464558839798,
+            "rectangle": {
+                "height": 13,
+                "left": 221,
+                "top": 49,
+                "width": 11
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.3155881464481354,
+            "rectangle": {
+                "height": 25,
+                "left": 418,
+                "top": 47,
+                "width": 7
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_4,  input image: inputfolder\000000480426.jpg,  output:{
+    "id": "96759d14-90c9-5ad4-b6ab-a01780e7256b",
+    "objects": [
+        {
+            "label": "chair",
+            "accuracy": 0.4334389865398407,
+            "rectangle": {
+                "height": 273,
+                "left": 294,
+                "top": 144,
+                "width": 78
+            }
+        },
+        {
+            "label": "dog",
+            "accuracy": 0.3886379599571228,
+            "rectangle": {
+                "height": 265,
+                "left": -17,
+                "top": 146,
+                "width": 283
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_10,  input image: inputfolder\000000494052.jpg,  output:{
+    "id": "40c62dd3-331c-5ee7-9e09-a4664a8004e5",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.6659107804298401,
+            "rectangle": {
+                "height": 145,
+                "left": 14,
+                "top": 97,
+                "width": 300
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_5,  input image: inputfolder\000000497763.jpg,  output:{
+    "id": "90c81a43-c8b5-5431-84f4-f6cfc0920280",
+    "objects": [
+        {
+            "label": "aeroplane",
+            "accuracy": 0.36870288848876953,
+            "rectangle": {
+                "height": 26,
+                "left": 307,
+                "top": 285,
+                "width": 28
+            }
+        },
+        {
+            "label": "kite",
+            "accuracy": 0.3383462727069855,
+            "rectangle": {
+                "height": 26,
+                "left": 337,
+                "top": 203,
+                "width": 29
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_3,  input image: inputfolder\000000499221.jpg,  output:{
+    "id": "476dbb17-9490-5f27-8bb1-904598fa5a90",
+    "objects": [
+        {
+            "label": "car",
+            "accuracy": 0.40605688095092773,
+            "rectangle": {
+                "height": 38,
+                "left": 9,
+                "top": 284,
+                "width": 16
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.3607831299304962,
+            "rectangle": {
+                "height": 20,
+                "left": 276,
+                "top": 199,
+                "width": 11
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.3499700129032135,
+            "rectangle": {
+                "height": 24,
+                "left": 203,
+                "top": 226,
+                "width": 11
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_7,  input image: inputfolder\000000501396.jpg,  output:{
+    "id": "4638cf97-3e0f-5cb4-afc3-9f591d7e8fb7",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.7971446514129639,
+            "rectangle": {
+                "height": 235,
+                "left": 472,
+                "top": 208,
+                "width": 87
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.6403314471244812,
+            "rectangle": {
+                "height": 242,
+                "left": 265,
+                "top": 201,
+                "width": 97
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_0,  input image: inputfolder\000000506107.jpg,  output:{
+    "id": "dab7e708-14d5-5bb4-9887-00e149327f35",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.8242253661155701,
+            "rectangle": {
+                "height": 214,
+                "left": 513,
+                "top": 211,
+                "width": 112
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_9,  input image: inputfolder\000000510196.jpg,  output:{
+    "id": "1dfd64c5-2fad-5434-b110-0a64a447b0c4",
+    "objects": [
+        {
+            "label": "microwave",
+            "accuracy": 0.8594779372215271,
+            "rectangle": {
+                "height": 76,
+                "left": 279,
+                "top": 64,
+                "width": 66
+            }
+        },
+        {
+            "label": "tvmonitor",
+            "accuracy": 0.5573813915252686,
+            "rectangle": {
+                "height": 79,
+                "left": 296,
+                "top": 172,
+                "width": 114
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_1,  input image: inputfolder\000000513941.jpg,  output:{
+    "id": "124e0fa1-7bd6-58b7-aa8e-8dc93eb86545",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.8775042295455933,
+            "rectangle": {
+                "height": 95,
+                "left": 500,
+                "top": 3,
+                "width": 106
+            }
+        },
+        {
+            "label": "chair",
+            "accuracy": 0.4304887056350708,
+            "rectangle": {
+                "height": 180,
+                "left": 343,
+                "top": 2,
+                "width": 144
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.36956989765167236,
+            "rectangle": {
+                "height": 29,
+                "left": 608,
+                "top": 12,
+                "width": 24
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_2,  input image: inputfolder\000000514963.jpg,  output:{
+    "id": "d045c155-e827-56b6-aaf3-5d41b88929ae",
+    "objects": [
+        {
+            "label": "bed",
+            "accuracy": 0.6477770209312439,
+            "rectangle": {
+                "height": 178,
+                "left": 285,
+                "top": 218,
+                "width": 286
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_8,  input image: inputfolder\000000516928.jpg,  output:NO
+Thread : ThreadPoolExecutor-0_6,  input image: inputfolder\000000523969.jpg,  output:{
+    "id": "8063483d-df93-5e31-a8ea-f752d8c3bf11",
+    "objects": [
+        {
+            "label": "clock",
+            "accuracy": 0.5554001927375793,
+            "rectangle": {
+                "height": 29,
+                "left": 199,
+                "top": 307,
+                "width": 36
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.5498954653739929,
+            "rectangle": {
+                "height": 165,
+                "left": 191,
+                "top": 441,
+                "width": 55
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.5484929084777832,
+            "rectangle": {
+                "height": 19,
+                "left": 49,
+                "top": 439,
+                "width": 7
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.47028595209121704,
+            "rectangle": {
+                "height": 35,
+                "left": 14,
+                "top": 445,
+                "width": 21
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.45268315076828003,
+            "rectangle": {
+                "height": 23,
+                "left": 39,
+                "top": 443,
+                "width": 8
+            }
+        },
+        {
+            "label": "car",
+            "accuracy": 0.34543469548225403,
+            "rectangle": {
+                "height": 12,
+                "left": 131,
+                "top": 434,
+                "width": 16
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.3335452377796173,
+            "rectangle": {
+                "height": 32,
+                "left": 4,
+                "top": 441,
+                "width": 6
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_4,  input image: inputfolder\000000524726.jpg,  output:{
+    "id": "654b7dcd-8a0e-57c1-84e9-8f0e1ee7714e",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.6326607465744019,
+            "rectangle": {
+                "height": 435,
+                "left": 123,
+                "top": 23,
+                "width": 250
+            }
+        },
+        {
+            "label": "surfboard",
+            "accuracy": 0.5071684122085571,
+            "rectangle": {
+                "height": 68,
+                "left": 192,
+                "top": 449,
+                "width": 170
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_10,  input image: inputfolder\000000526221.jpg,  output:{
+    "id": "5d19d79e-0d08-5d4d-b111-185607b145fd",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.34912171959877014,
+            "rectangle": {
+                "height": 219,
+                "left": 409,
+                "top": 73,
+                "width": 114
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_5,  input image: inputfolder\000000532051.jpg,  output:{
+    "id": "065ca430-30a8-5d9a-a9b9-d3d3d1084124",
+    "objects": [
+        {
+            "label": "vase",
+            "accuracy": 0.4305569529533386,
+            "rectangle": {
+                "height": 269,
+                "left": 185,
+                "top": 274,
+                "width": 132
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_3,  input image: inputfolder\000000535800.jpg,  output:NO
+Thread : ThreadPoolExecutor-0_7,  input image: inputfolder\000000541376.jpg,  output:{
+    "id": "63dc514c-32ae-5892-bd42-abdd038abd3e",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.5080720782279968,
+            "rectangle": {
+                "height": 426,
+                "left": 0,
+                "top": 15,
+                "width": 169
+            }
+        },
+        {
+            "label": "cup",
+            "accuracy": 0.34018921852111816,
+            "rectangle": {
+                "height": 35,
+                "left": 11,
+                "top": 582,
+                "width": 33
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_0,  input image: inputfolder\000000556945.jpg,  output:{
+    "id": "58e17a63-eb41-5bd4-905a-092f6bb55393",
+    "objects": [
+        {
+            "label": "zebra",
+            "accuracy": 0.3007887005805969,
+            "rectangle": {
+                "height": 326,
+                "left": 302,
+                "top": 160,
+                "width": 320
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_9,  input image: inputfolder\000000558413.jpg,  output:{
+    "id": "083d7549-c3b5-54c3-94db-4e422e163171",
+    "objects": [
+        {
+            "label": "traffic light",
+            "accuracy": 0.636025071144104,
+            "rectangle": {
+                "height": 14,
+                "left": 374,
+                "top": 114,
+                "width": 13
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_1,  input image: inputfolder\000000558980.jpg,  output:{
+    "id": "c818c939-cc50-5ab3-92b2-3fe62e564a32",
+    "objects": [
+        {
+            "label": "tvmonitor",
+            "accuracy": 0.5909340977668762,
+            "rectangle": {
+                "height": 54,
+                "left": 40,
+                "top": 73,
+                "width": 42
+            }
+        },
+        {
+            "label": "dog",
+            "accuracy": 0.4024066627025604,
+            "rectangle": {
+                "height": 104,
+                "left": 319,
+                "top": 216,
+                "width": 96
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.3144484758377075,
+            "rectangle": {
+                "height": 346,
+                "left": 224,
+                "top": 102,
+                "width": 107
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_2,  input image: inputfolder\000000559342.jpg,  output:{
+    "id": "f03ef383-983f-5ec1-b92f-448fc84467b6",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.6834040284156799,
+            "rectangle": {
+                "height": 58,
+                "left": 593,
+                "top": 195,
+                "width": 30
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.43460994958877563,
+            "rectangle": {
+                "height": 390,
+                "left": 430,
+                "top": 167,
+                "width": 181
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.4124332368373871,
+            "rectangle": {
+                "height": 182,
+                "left": 142,
+                "top": 195,
+                "width": 81
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.3256664574146271,
+            "rectangle": {
+                "height": 32,
+                "left": 294,
+                "top": 208,
+                "width": 27
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.3207053542137146,
+            "rectangle": {
+                "height": 37,
+                "left": 245,
+                "top": 205,
+                "width": 26
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_8,  input image: inputfolder\000000559858.jpg,  output:NO
+Thread : ThreadPoolExecutor-0_6,  input image: inputfolder\000000561333.jpg,  output:{
+    "id": "ca7c621a-e495-5e5b-a7a6-23a5fdd8e9bf",
+    "objects": [
+        {
+            "label": "laptop",
+            "accuracy": 0.9895355105400085,
+            "rectangle": {
+                "height": 187,
+                "left": 266,
+                "top": 57,
+                "width": 152
+            }
+        },
+        {
+            "label": "laptop",
+            "accuracy": 0.8741656541824341,
+            "rectangle": {
+                "height": 185,
+                "left": 94,
+                "top": 62,
+                "width": 167
+            }
+        },
+        {
+            "label": "keyboard",
+            "accuracy": 0.609546959400177,
+            "rectangle": {
+                "height": 29,
+                "left": 310,
+                "top": 173,
+                "width": 58
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_4,  input image: inputfolder\000000561420.jpg,  output:{
+    "id": "43619738-8c7a-52fb-be34-3bdac0a8d5e9",
+    "objects": [
+        {
+            "label": "train",
+            "accuracy": 0.5178747177124023,
+            "rectangle": {
+                "height": 89,
+                "left": 209,
+                "top": 208,
+                "width": 52
+            }
+        },
+        {
+            "label": "person",
+            "accuracy": 0.3346112072467804,
+            "rectangle": {
+                "height": 34,
+                "left": 599,
+                "top": 106,
+                "width": 19
+            }
+        }
+    ]
+}
+Thread : ThreadPoolExecutor-0_10,  input image: inputfolder\000000563577.jpg,  output:{
+    "id": "a42feb50-7df8-5fac-aa8f-0342f0d11727",
+    "objects": [
+        {
+            "label": "person",
+            "accuracy": 0.7561854124069214,
+            "rectangle": {
+                "height": 523,
+                "left": 140,
+                "top": 10,
+                "width": 210
+            }
+        },
+        {
+            "label": "tennis racket",
+            "accuracy": 0.5524749755859375,
+            "rectangle": {
+                "height": 298,
+                "left": 319,
+                "top": 174,
+                "width": 106
+            }
+        }
+    ]
+}

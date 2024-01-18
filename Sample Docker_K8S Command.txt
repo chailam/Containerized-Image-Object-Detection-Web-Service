@@ -1,0 +1,54 @@
+# Build docker image
+docker build -t iweblens .  (locally)
+docker login (to hub)
+docker image build -t cloi0001/iweblens:1.0.0 .   (to hub)
+docker push cloi0001/iweblens:1.0.0 (to hub)
+
+# Run docker image to attach port
+docker run -d -p 5000:5000 cloi0001/iweblens:1.0.0
+
+# Use Kind to build a cluster
+kind create cluster --config cluster-config.yml --name iweblenscluster
+
+# Use Kind to delete cluster 
+kind delete cluster --name iweblenscluster
+
+# Check cluster
+kubectl cluster-info --context kind-iweblenscluster
+
+# Apply the deployment YAML file to the cluster
+kubectl apply -f deploy-config.yml
+
+# Scale the number of pods
+kubectl scale deployment iweblens-deployment --replicas=1
+
+# Verify pod information (to check whether CPU limit enforced)
+kubectl get pod <pod-name> --output=yaml
+kubectl logs <pod-name>
+
+# Apply the service YAML file to cluster
+kubectl apply -f service-config.yml 
+
+# Remove service
+kubectl delete svc iweblens-service
+
+# Check service
+kubectl get svc -o wide
+kubectl describe services
+
+# View all the nodes, deployments and pods
+kubectl get nodes,deployments,pods -o wide
+
+# View all the image
+docker image list
+
+# View all the container
+docker ps -a
+
+
+
+# Client send data to the port
+python iWebLens_client.py inputfolder/ http://118.138.241.47:30000/api/objectdetection 11
+
+
+
