@@ -1,5 +1,5 @@
 # iWebLens Project 
-**- Image Object DetectionWeb Service within a Containerised Environment**
+**- Image Object Detection Web Service within a Containerised Environment**
 
 ## Project Summary
 
