@@ -1,5 +1,5 @@
 # iWebLens Project 
-**- Image Object Detection Web Service within a Containerised Environment**
+** Image Object Detection Web Service within a Containerised Environment**
 
 ## Project Summary
 
@@ -45,11 +45,11 @@ If any Linux dependencies are required, you shall install them based on system r
 
 
 ## Instruction to Run
-1. Create an Docker image for the web server using Dockerfile in "server" folder. 
+1. Create a Docker image for the web server using Dockerfile in `server` folder. 
 2. Use Kind to build a cluster
 3. Apply the Kubernetes deployment YAML file to the cluster.
 4. Apply the service YAML file to cluster
-5. Send the client request using "iWebLens_client.py" file.
-6. Test the performance under difference pod numbers and thread using "autoCollect.py" file.
+5. Send the client request using `iWebLens_client.py` file.
+6. Test the performance under difference pod numbers and thread using `autoCollect.py` file.
 
-You can refer to the "Sample Docker_K8S Command.txt" for some Docket / Kubernetes command.
+You can refer to the `Sample Docker_K8S Command.txt` for some Docket / Kubernetes command.
